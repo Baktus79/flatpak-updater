@@ -1,0 +1,8 @@
+{
+  "name": "Flatpak Updater",
+  "description": "Shows an indicator in the top bar when flatpak updates are available",
+  "uuid": "flatpak-updater@lars",
+  "version": 1,
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "url": ""
+}
